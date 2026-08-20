@@ -12,6 +12,11 @@
 - **自动清理残留**：启动前清理残留 dsh 进程，避免 cordis.yml 写锁（EPERM）
 - **网络兼容**：优先使用本地 npx 缓存直接启动，npm 查询失败时直连 registry
 
+## 界面预览
+
+![启动器主界面](dsh-launcher_page.png)
+![炫耀一下我的harness](harness_page.png)
+
 ## 环境要求
 
 - Windows 10 / 11
